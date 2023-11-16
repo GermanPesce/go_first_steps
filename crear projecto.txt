@@ -1,0 +1,4 @@
+crear proyecto go
+crear carpeta donde va a ir el proyecto
+abrir o arrastrar la carpeta dentro del vs code
+go mod init unarutacualquiera (github por ej)
